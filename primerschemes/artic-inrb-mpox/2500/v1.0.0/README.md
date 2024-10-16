@@ -16,7 +16,7 @@ Clade I genomes were aligned to clade I reference and Clade II genomes were alig
     "schemeversion": "v1.0.0",
     "schemename": "artic-inrb-mpox",
     "primer_bed_md5": "2cb0df68f18a7e845d5cadbf1dfedbb0",
-    "reference_fasta_md5": "6fd03a2d6a4a74efbeb1ed99c5c47dc3",
+    "reference_fasta_md5": "e138aea3c2c7f74d1ed4e83ea2b2efc2",
     "status": "draft",
     "citations": [],
     "authors": [
@@ -30,12 +30,12 @@ Clade I genomes were aligned to clade I reference and Clade II genomes were alig
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v2.0.0",
+    "infoschema": "v2.1.0",
     "articbedversion": "v3.0",
     "collections": [
-        "ARTIC",
+        "WHOLE-GENOME",
         "QUICK-LAB",
-        "WHOLE-GENOME"
+        "ARTIC"
     ],
     "links": {
         "protocols": [],
@@ -43,6 +43,12 @@ Clade I genomes were aligned to clade I reference and Clade II genomes were alig
         "homepage": [],
         "vendors": [],
         "misc": []
+    },
+    "refselect": {
+        "KJ642613.1": {
+            "md5": "58f872488634bce129cada8f47a20a30",
+            "filename": "KJ642613.1_refselect.fasta"
+        }
     },
     "description": "Clade I genomes were aligned to clade I reference and Clade II genomes were aligned to clade II reference with squirrel. The two clades were consensus aligned using MAFFT and the alignment was used as the input for primalscheme3. BED files for each clade using primalbedtools",
     "derivedfrom": null,
