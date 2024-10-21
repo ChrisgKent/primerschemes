@@ -1,3 +1,5 @@
+> this fork is to test new features! Please submit to / use the [main version](https://github.com/quick-lab/primerschemes).
+
 # primerschemes
 
 Central machine-readable repo for newly generated PrimerSchemes and PrimalPanels
